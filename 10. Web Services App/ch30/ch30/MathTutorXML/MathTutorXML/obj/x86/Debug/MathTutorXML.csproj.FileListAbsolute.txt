@@ -1,0 +1,9 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch30\MathTutorXML\MathTutorXML\bin\Debug\MathTutorXML.exe.config
+C:\books\2012\VCSHARP2012HTP\examples\ch30\MathTutorXML\MathTutorXML\bin\Debug\MathTutorXML.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch30\MathTutorXML\MathTutorXML\bin\Debug\MathTutorXML.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch30\MathTutorXML\MathTutorXML\obj\x86\Debug\MathTutorXML.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch30\MathTutorXML\MathTutorXML\obj\x86\Debug\MathTutorXML.MathTutor.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch30\MathTutorXML\MathTutorXML\obj\x86\Debug\MathTutorXML.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch30\MathTutorXML\MathTutorXML\obj\x86\Debug\MathTutorXML.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch30\MathTutorXML\MathTutorXML\obj\x86\Debug\MathTutorXML.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch30\MathTutorXML\MathTutorXML\obj\x86\Debug\MathTutorXML.pdb

@@ -1,0 +1,94 @@
+﻿@using PayPal.Api
+@using System.Configuration
+@model Ch24ShoppingCartMVC.Models.CartViewModel
+
+@{
+    ViewBag.Title = "Checkout";
+}
+@section css {
+    <link href="~/Content/Cart.css" rel="stylesheet" />
+}
+<h2>Checkout</h2>
+
+@if (Model.Cart.Count == 0)
+{
+    <p>Nothing in your cart yet.</p>
+}
+else
+{
+    decimal x = 0;
+    double tax;
+
+    <select multiple="multiple">
+        @foreach (var item in Model.Cart)
+        {
+            decimal totalPrice = 0;
+            if (@item.Quantity == 1)
+            {
+                x = @x + @item.UnitPrice;
+            }
+            else
+            {
+                x = @item.UnitPrice * @item.Quantity;
+            }
+            totalPrice = @item.UnitPrice * @item.Quantity;
+            <option>@item.Name: @item.Quantity for @totalPrice (1 for @item.UnitPrice).</option>
+        }
+</select>
+  
+    <p>Total amount before tax: @x</p>
+    tax = (double)x * 0.0875;
+    x = x + (decimal)tax;
+    <p>Total amount after tax: @x</p>
+
+    <p>If you wish to pay: </p>
+            <label>Card Expiration:</label>
+<select name = 'expireMM' id = 'expireMM' required>
+    <option value = '' > Month </option>
+    <option value = '01' > January </option>
+    <option value = '02' > February </option>
+    <option value = '03' > March </option>
+    <option value='04'> April </option >
+    <option value = '05' > May </option >
+    <option value = '06' > June </option >
+    <option value = '07' > July </option >
+    <option value = '08' > August </option >
+    <option value = '09' > September </option >
+    <option value = '10' > October </option >
+    <option value = '11' > November </option >
+    <option value = '12' > December </option >
+</select >
+<select name = 'expireYY' id = 'expireYY' required>
+    <option value = '' > Year </option >
+    <option value = '10' > 2010 </option >
+    <option value = '11' > 2011 </option >
+    <option value = '12' > 2012 </option >
+</select>
+ <br />
+<br />
+    <form action="" method="post">
+        <label for="card">Credit Card Number:</label>
+        <input class="inputCard" type="text" pattern="[0-9]{13,16}" name="creditCard1" id="creditCard1" width="200" required />
+        <br />
+        <br />
+       <label>Card:</label> 
+       <select name="cardoption" required>
+            <option value="visa">Visa</option>
+            <option value="mastercard">MasterCard</option>
+            <option value="paypal">PayPal</option>
+        </select>
+        <br />
+        <br />
+        <label for="address">Shipping Address:</label>
+        <input type="text" name="address" id="address" required />
+        <br />
+        <br />
+        <label for="city">City:</label>
+        <input type="text" name="address" id="address" required />
+        <br />
+        <br />
+        <label for="zip">Zip Code:</label>
+        <input type="number" maxlength="5" name="zip" id="zip" required />
+        <input name="submit" type="submit" value="Submit" id="submit">
+    </form>
+}

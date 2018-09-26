@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConsoleApp1</name>
+    </assembly>
+    <members>
+        <member name="T:ConsoleApp1.IntegerSet">
+            <summary>
+            Provides set which can store boolean value for integers from 0 to 100.
+            </summary>
+        </member>
+        <member name="M:ConsoleApp1.IntegerSet.#ctor">
+            <summary>
+            Default constructor
+            </summary>
+        </member>
+        <member name="M:ConsoleApp1.IntegerSet.#ctor(System.Int32[])">
+            <summary>
+            Parameterized constructor to assign values to set with integer array
+            </summary>
+            <param name="intArray">Integer array used for assigning true</param>
+        </member>
+        <member name="M:ConsoleApp1.IntegerSet.ToString">
+            <summary>
+            To return a string by appending all the elements in the 
+            IntegerSet which are true.
+            </summary>
+            <returns>string: all the elements in the current set</returns>
+        </member>
+        <member name="M:ConsoleApp1.IntegerSet.setElement(System.Int32,System.Boolean)">
+            <summary>
+            Assign boolean value to the set with the passed index.
+            </summary>
+            <param name="element">Index at which boolean value is to be placed.</param>
+            <param name="isTrue">Boolean value to be placed in the set.</param>
+        </member>
+        <member name="M:ConsoleApp1.IntegerSet.Union(ConsoleApp1.IntegerSet)">
+            <summary>
+            Returns set with Union of two sets.
+            </summary>
+            <param name="set">Comparision with this set.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ConsoleApp1.IntegerSet.Intersection(ConsoleApp1.IntegerSet)">
+            <summary>
+            Returns set with Intersection of two sets.
+            </summary>
+            <param name="set">Comparision with this set.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ConsoleApp1.IntegerSet.IsEqualTo(ConsoleApp1.IntegerSet)">
+            <summary>
+            Compare two sets are equal or not.
+            </summary>
+            <param name="set">Comparision with this set.</param>
+            <returns>True if equal. False if unequal.</returns>
+        </member>
+        <member name="M:ConsoleApp1.IntegerSet.InsertElement(System.Int32)">
+            <summary>
+            Insert a new element into the set.
+            </summary>
+            <param name="element">Element to insert in the set.</param>
+            <returns>Returns instance of IntegerSet with inserted value.</returns>
+        </member>
+        <member name="M:ConsoleApp1.IntegerSet.DeleteElement(System.Int32)">
+            <summary>
+            Delete an existing element from the set.
+            </summary>
+            <param name="element">Element to delete from the set.</param>
+            <returns>Returns instance of IntegerSet after deleting the element.</returns>
+        </member>
+        <member name="M:ConsoleApp1.Program.InputSet">
+            Take input of total elements from the user and 
+            return object of IntegerSet.
+        </member>
+    </members>
+</doc>

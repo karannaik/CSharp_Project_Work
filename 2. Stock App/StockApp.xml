@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StockApp</name>
+    </assembly>
+    <members>
+        <member name="T:StockApp.StockBroker">
+            <summary>
+            StockBroker is event listener.
+            </summary>
+        </member>
+        <member name="M:StockApp.StockBroker.AddStock(StockApp.Stock)">
+            <summary>
+            Add stock objects to stock broker list.
+            </summary>
+            <param name="stock">Stock object to access delegate.</param>
+        </member>
+        <member name="M:StockApp.StockBroker.StockBrokerNotification(StockApp.Stock)">
+            <summary>
+            This method prints the notification stock values on to file and console. 
+            This method is assigned to a delegate in Stock class.
+            </summary>
+            <param name="stock">Stock object which value exceeds a particular threshold.</param>
+        </member>
+        <member name="M:StockApp.StockBroker.WriteToFile(StockApp.Stock)">
+            <summary>
+            Write stock object details to file.
+            </summary>
+            <param name="stock">Stock class object used to print details of stock object.</param>
+        </member>
+        <member name="M:StockApp.StockBroker.WriteToConsole(StockApp.Stock)">
+            <summary>
+            Write stock object details to file.
+            </summary>
+            <param name="stock">Stock class object used to print details of stock object.</param>
+        </member>
+        <member name="T:StockApp.Stock">
+            <summary>
+            Stock is event publisher.
+            </summary>
+        </member>
+        <member name="M:StockApp.Stock.#ctor(System.String,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Parameterized constructor to initialize values of Stock and start the thread for each reference.
+            </summary>
+            <param name="Name">Name of the stock.</param>
+            <param name="InitialValue">InitialValue start of the stock.</param>
+            <param name="MaxChange">Change in the value of stock allowed. -ve or +ve.</param>
+            <param name="NThreshold">Integer value if crossed then notification is sent</param>
+        </member>
+        <member name="M:StockApp.Stock.Activate(System.Object)">
+            <summary>
+            Static method called under thread object to update stock value randomly in the background.
+            </summary>
+            <param name="o">Calling object i.e. Stock.</param>
+        </member>
+        <member name="M:StockApp.Stock.OnThresholdReached(StockApp.Stock)">
+            <summary>
+            Method to invoke notifications to registered methods.
+            </summary>
+            <param name="s">Stock class object sending to brokers.</param>
+        </member>
+        <member name="F:StockApp.Stock.StockNotification">
+            <summary>
+            Generic delegate with one parameter of Stock class.
+            </summary>
+        </member>
+        <member name="M:StockApp.Stock.Finalize">
+            <summary>
+            Destructor
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,5 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTXMLService\WelcomeRESTXMLService\bin\WelcomeRESTXMLService.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTXMLService\WelcomeRESTXMLService\bin\WelcomeRESTXMLService.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTXMLService\WelcomeRESTXMLService\obj\Debug\WelcomeRESTXMLService.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTXMLService\WelcomeRESTXMLService\obj\Debug\WelcomeRESTXMLService.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTXMLService\WelcomeRESTXMLService\obj\Debug\WelcomeRESTXMLService.pdb

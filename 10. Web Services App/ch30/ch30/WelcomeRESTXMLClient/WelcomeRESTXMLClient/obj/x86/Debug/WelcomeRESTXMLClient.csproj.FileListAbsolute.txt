@@ -1,0 +1,9 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTXMLClient\WelcomeRESTXMLClient\bin\Debug\WelcomeRESTXMLClient.exe.config
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTXMLClient\WelcomeRESTXMLClient\bin\Debug\WelcomeRESTXMLClient.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTXMLClient\WelcomeRESTXMLClient\bin\Debug\WelcomeRESTXMLClient.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTXMLClient\WelcomeRESTXMLClient\obj\x86\Debug\WelcomeRESTXMLClient.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTXMLClient\WelcomeRESTXMLClient\obj\x86\Debug\WelcomeRESTXMLClient.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTXMLClient\WelcomeRESTXMLClient\obj\x86\Debug\WelcomeRESTXMLClient.WelcomeRESTXML.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTXMLClient\WelcomeRESTXMLClient\obj\x86\Debug\WelcomeRESTXMLClient.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTXMLClient\WelcomeRESTXMLClient\obj\x86\Debug\WelcomeRESTXMLClient.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTXMLClient\WelcomeRESTXMLClient\obj\x86\Debug\WelcomeRESTXMLClient.pdb

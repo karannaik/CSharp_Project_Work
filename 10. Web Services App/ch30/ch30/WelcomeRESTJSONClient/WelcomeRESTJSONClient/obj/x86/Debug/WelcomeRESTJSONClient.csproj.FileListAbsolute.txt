@@ -1,0 +1,9 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTJSONClient\WelcomeRESTJSONClient\bin\Debug\WelcomeRESTJSONClient.exe.config
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTJSONClient\WelcomeRESTJSONClient\obj\x86\Debug\WelcomeRESTJSONClient.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTJSONClient\WelcomeRESTJSONClient\obj\x86\Debug\WelcomeRESTJSONClient.WelcomeRESTJSON.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTJSONClient\WelcomeRESTJSONClient\obj\x86\Debug\WelcomeRESTJSONClient.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTJSONClient\WelcomeRESTJSONClient\obj\x86\Debug\WelcomeRESTJSONClient.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTJSONClient\WelcomeRESTJSONClient\bin\Debug\WelcomeRESTJSONClient.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTJSONClient\WelcomeRESTJSONClient\bin\Debug\WelcomeRESTJSONClient.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTJSONClient\WelcomeRESTJSONClient\obj\x86\Debug\WelcomeRESTJSONClient.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTJSONClient\WelcomeRESTJSONClient\obj\x86\Debug\WelcomeRESTJSONClient.pdb

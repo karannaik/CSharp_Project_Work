@@ -1,0 +1,5 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTJSONService\WelcomeRESTJSONService\bin\WelcomeRESTJSONService.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTJSONService\WelcomeRESTJSONService\bin\WelcomeRESTJSONService.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTJSONService\WelcomeRESTJSONService\obj\Debug\WelcomeRESTJSONService.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTJSONService\WelcomeRESTJSONService\obj\Debug\WelcomeRESTJSONService.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch30\WelcomeRESTJSONService\WelcomeRESTJSONService\obj\Debug\WelcomeRESTJSONService.pdb

@@ -1,0 +1,16 @@
+C:\Users\tusharj\source\repos\MyCalculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\tusharj\source\repos\MyCalculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tusharj\source\repos\MyCalculator\Calculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tusharj\source\repos\MyCalculator\Calculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tusharj\source\repos\MyCalculator\Calculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tusharj\source\repos\MyCalculator\Calculator\bin\Debug\Calculator.dll
+C:\Users\tusharj\source\repos\MyCalculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\tusharj\source\repos\MyCalculator\Calculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\tusharj\source\repos\MyCalculator\Calculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\tusharj\source\repos\MyCalculator\Calculator\bin\Debug\MyCalculator.dll
+C:\Users\tusharj\source\repos\MyCalculator\Calculator\bin\Debug\MyCalculator.pdb
+C:\Users\tusharj\source\repos\MyCalculator\Calculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\tusharj\source\repos\MyCalculator\Calculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\tusharj\source\repos\MyCalculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\tusharj\source\repos\MyCalculator\Calculator\obj\Debug\Calculator.dll
+C:\Users\tusharj\source\repos\MyCalculator\Calculator\obj\Debug\Calculator.pdb

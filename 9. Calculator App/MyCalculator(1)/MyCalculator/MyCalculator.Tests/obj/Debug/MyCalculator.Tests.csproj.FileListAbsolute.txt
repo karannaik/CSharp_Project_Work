@@ -1,0 +1,32 @@
+c:\users\rushabh\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\rushabh\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\rushabh\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\rushabh\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\MyCalculator.Tests.dll
+c:\users\rushabh\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\MyCalculator.Tests.pdb
+c:\users\rushabh\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\rushabh\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\rushabh\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\MyCalculator.dll
+c:\users\rushabh\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\MyCalculator.pdb
+c:\users\rushabh\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\rushabh\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\rushabh\source\repos\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.csprojAssemblyReference.cache
+c:\users\rushabh\source\repos\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.csproj.CoreCompileInputs.cache
+c:\users\rushabh\source\repos\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.csproj.CopyComplete
+c:\users\rushabh\source\repos\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.dll
+c:\users\rushabh\source\repos\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.pdb
+C:\Users\KARAN\Desktop\Study\3rd Sem\Assignment 9\MyCalculator(1)\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\KARAN\Desktop\Study\3rd Sem\Assignment 9\MyCalculator(1)\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\KARAN\Desktop\Study\3rd Sem\Assignment 9\MyCalculator(1)\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\KARAN\Desktop\Study\3rd Sem\Assignment 9\MyCalculator(1)\MyCalculator\MyCalculator.Tests\bin\Debug\MyCalculator.Tests.dll
+C:\Users\KARAN\Desktop\Study\3rd Sem\Assignment 9\MyCalculator(1)\MyCalculator\MyCalculator.Tests\bin\Debug\MyCalculator.Tests.pdb
+C:\Users\KARAN\Desktop\Study\3rd Sem\Assignment 9\MyCalculator(1)\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\KARAN\Desktop\Study\3rd Sem\Assignment 9\MyCalculator(1)\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\KARAN\Desktop\Study\3rd Sem\Assignment 9\MyCalculator(1)\MyCalculator\MyCalculator.Tests\bin\Debug\MyCalculator.dll
+C:\Users\KARAN\Desktop\Study\3rd Sem\Assignment 9\MyCalculator(1)\MyCalculator\MyCalculator.Tests\bin\Debug\MyCalculator.pdb
+C:\Users\KARAN\Desktop\Study\3rd Sem\Assignment 9\MyCalculator(1)\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\KARAN\Desktop\Study\3rd Sem\Assignment 9\MyCalculator(1)\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\KARAN\Desktop\Study\3rd Sem\Assignment 9\MyCalculator(1)\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.csprojAssemblyReference.cache
+C:\Users\KARAN\Desktop\Study\3rd Sem\Assignment 9\MyCalculator(1)\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.csproj.CoreCompileInputs.cache
+C:\Users\KARAN\Desktop\Study\3rd Sem\Assignment 9\MyCalculator(1)\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.csproj.CopyComplete
+C:\Users\KARAN\Desktop\Study\3rd Sem\Assignment 9\MyCalculator(1)\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.dll
+C:\Users\KARAN\Desktop\Study\3rd Sem\Assignment 9\MyCalculator(1)\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.pdb
